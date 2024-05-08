@@ -1,4 +1,5 @@
 # ANALYZING OPERATIONAL EFFICIENCY AND PERFORMANCE METRICS OF THE USA’S AVIATION INDUSTRY: A CASE STUDY OF AMERICAN AIRLINES
+[Full Research Paper]([URL](https://github.com/MrEMAX03/Data-Analytics-and-Machine-Learning-in-the-Aviation-Sector/blob/main/AAA_Research%20Report.pdf))
 
 !(picture_title.png)
 
