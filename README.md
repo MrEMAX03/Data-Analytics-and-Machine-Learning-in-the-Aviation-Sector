@@ -1,7 +1,7 @@
 # ANALYZING OPERATIONAL EFFICIENCY AND PERFORMANCE METRICS OF THE USA’S AVIATION INDUSTRY: A CASE STUDY OF AMERICAN AIRLINES
-[Full Research Paper]([URL](https://github.com/MrEMAX03/Data-Analytics-and-Machine-Learning-in-the-Aviation-Sector/blob/main/AAA_Research%20Report.pdf))
+[Full Research Paper](https://github.com/MrEMAX03/Data-Analytics-and-Machine-Learning-in-the-Aviation-Sector/blob/main/AAA_Research%20Report.pdf)
 
-!(picture_title.png)
+![picture_title](picture_title.png)
 
 ## Abstract:
 This research project utilizes Data Analysis and Machine Learning techniques to address the impacts of flight delays in the Aviation sector.
