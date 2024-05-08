@@ -2,7 +2,7 @@
 
 ## Abstract:
 This research project utilizes Data Analysis and Machine Learning techniques to address the impacts of flight delays in the Aviation sector.
-Analyzing extensive datasets, including flight schedules and delay records from the United States Department of Transportation (USDOT), the study identifies patterns and trends associated with delays and evaluates their financial ramifications. Various machine learning models such as Random Forest, Logistic Regression, K-Nearest Neighbor (KNN), and Extreme Gradient Boosting (XGBoost) are employed to predict and prevent flight delays effectively. A specific case study on American Airlines flights originating from Dallas Fort- Worth airport provides insights into airline-specific delay mitigation strategies.
+Analyzing extensive datasets, including flight schedules and delay records from the United States Department of Transportation (USDOT), the study identifies patterns and trends associated with delays and evaluates their financial ramifications. Various machine learning models such as Random Forest, Logistic Regression, K-Nearest Neighbor (KNN), and Extreme Gradient Boosting (XGBoost) are employed to predict and prevent flight delays effectively. A specific case study on American Airlines flights originating from Dallas Fort-Worth airport provides insights into airline-specific delay mitigation strategies.
 The findings indicate substantial potential for cost savings for both airlines and passengers through proactive delay management strategies.
 
 ## Results Highlights:
